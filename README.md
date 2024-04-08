@@ -1,4 +1,4 @@
-# My GitHub Profile
+# Welcome to my github profile!!
 
 ## Name
 Lee Jun Ha
